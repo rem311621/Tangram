@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="page0055" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0054" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0053" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0052" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0051" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0050" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0049" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0048" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0047" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0046" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0045" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0044" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0043" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0042" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0041" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0040" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0039" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0038" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0037" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0036" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0035" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0034" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0033" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0032" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0031" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0030" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0029" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0028" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0027" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0026" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0025" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0024" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0023" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0022" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0021" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0020" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0019" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0018" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0017" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0016" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0015" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0014" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0013" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0012" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0011" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0010" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0009" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0008" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0007" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0006" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0005" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0004" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0003" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0002" size="1000.000000 1413.376343" />
+    <ImageTarget name="page0001" size="1000.000000 1413.376343" />
+  </Tracking>
+</QCARConfig>
